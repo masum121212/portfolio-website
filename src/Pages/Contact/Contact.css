@@ -1,0 +1,9 @@
+.image {
+  background-image: linear-gradient(#2a313d, rgba(72, 103, 150, 0.2)),
+    url("../../images/email/email.jpg");
+  width: 100%;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
