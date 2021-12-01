@@ -13,7 +13,7 @@ const About = () => {
 
 
                 <div className="col">
-                <h1 className="text-light">
+                <h1 className="text-light fw-bold">
                     <Typical
                                 loop={Infinity}
                                 steps={[
